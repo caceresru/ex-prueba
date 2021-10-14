@@ -1,2 +1,2 @@
 # ex-prueba
-Reto tecnico API NodeJs JavaScript
+Reto técnico API NodeJs JavaScript
